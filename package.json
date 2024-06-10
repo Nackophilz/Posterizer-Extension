@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-env": "^7.24.7",
     "@babel/preset-react": "^7.12.10",
     "@polymer/paper-button": "^3.0.1",
     "@risingstack/react-easy-state": "^6.3.0",
